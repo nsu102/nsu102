@@ -1,81 +1,87 @@
 <div align="center">
 
-# 안녕하세요, 신윤수입니다 👋  
-### 꾸준히 성장하며 문제를 해결하는 소프트웨어 엔지니어
+# 신윤수
+### Software Engineer
 
-[![백준 프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=ys10)](https://www.acmicpc.net/user/ys10)
-![GitHub Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=nsu102&layout=compact&theme=transparent)
+사용자 경험과 제품 완성도를 함께 고민하며  
+프론트엔드부터 백엔드까지 폭넓게 다루는 소프트웨어 엔지니어입니다.
+
+[![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=ys10)](https://www.acmicpc.net/user/ys10)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=nsu102&layout=compact&theme=transparent)
 
 </div>
 
 ---
 
-## 🙋 소개
+## About Me
 
-항상 더 나은 구조와 더 좋은 사용자 경험을 고민하는 엔지니어 **신윤수**입니다.  
-프론트엔드부터 백엔드까지 폭넓게 다루며, 실제 서비스 구현과 문제 해결에 강점을 가지고 있습니다.
+더 나은 구조와 더 나은 사용자 경험을 만들기 위해 꾸준히 고민합니다.  
+실제 서비스 개발 과정에서 문제를 정의하고, 빠르게 구현하며, 지속적으로 개선하는 데 강점이 있습니다.
 
-- 🎓 한양대학교 정보시스템학과
-- 💼 **zkrypto** 소프트웨어 엔지니어
-- 🌱 사용자와 비즈니스에 모두 가치 있는 제품을 만드는 데 관심이 많습니다.
+- 한양대학교 정보시스템학과
+- zkrypto Software Engineer
+- 사용자와 비즈니스 모두에게 가치 있는 제품 개발에 관심이 있습니다.
 
 ---
 
-## 💼 경력
+## Experience
 
-### **zkrypto** — 소프트웨어 엔지니어  
-**2026.01 ~ 현재**
+### zkrypto  
+**Software Engineer**  
+**2026.01 – Present**
 
 - 서비스 개발 및 운영
 - 제품 개선을 위한 기능 구현 및 유지보수
-- 프론트엔드/백엔드 전반의 개발 업무 수행
+- 프론트엔드와 백엔드를 아우르는 전반적인 개발 업무 수행
 
-### **Lion Rocket** — 풀스택 개발자  
-**2025.08 ~ 2025.09**
+### Lion Rocket  
+**Full Stack Developer**  
+**2025.08 – 2025.09**
 
 **GENVAS Lite**  
 AI 기반 웹툰 제작 플랫폼 풀스택 개발
 
-### **DAQUV** — 소프트웨어 엔지니어  
-**2024.11 ~ 2025.08**
+### DAQUV  
+**Software Engineer**  
+**2024.11 – 2025.08**
 
 **AICFO**  
-CEO/CFO 전용 AI 자금 비서 서비스 풀스택 개발
+CEO/CFO를 위한 AI 자금 비서 서비스 풀스택 개발
 
 ---
 
-## 🏆 수상 및 성과
+## Awards
 
-- 🥇 **2025 예비예술인 프로젝트 <ArtTech for L.I.F.E> 해커톤**
-- 🥇 **Blaybus MVP 해커톤**
+- 2025 예비예술인 프로젝트 ArtTech for L.I.F.E 해커톤 대상
+- Blaybus MVP 해커톤 대상
 
 ---
 
-## 🛠 Tech Stack
+## Tech Stack
 
 ### Frontend
-![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white)
-![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
-![React Native](https://img.shields.io/badge/React_Native-61DAFB?style=for-the-badge&logo=react&logoColor=black)
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![Next.js](https://img.shields.io/badge/Next.js-111111?style=for-the-badge&logo=next.js&logoColor=white)
+![React](https://img.shields.io/badge/React-111111?style=for-the-badge&logo=react&logoColor=61DAFB)
+![React Native](https://img.shields.io/badge/React_Native-111111?style=for-the-badge&logo=react&logoColor=61DAFB)
+![TypeScript](https://img.shields.io/badge/TypeScript-111111?style=for-the-badge&logo=typescript&logoColor=3178C6)
+![JavaScript](https://img.shields.io/badge/JavaScript-111111?style=for-the-badge&logo=javascript&logoColor=F7DF1E)
 
 ### Backend
-![NestJS](https://img.shields.io/badge/NestJS-E0234E?style=for-the-badge&logo=nestjs&logoColor=white)
-![Express](https://img.shields.io/badge/Express-000000?style=for-the-badge&logo=express&logoColor=white)
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)
+![NestJS](https://img.shields.io/badge/NestJS-111111?style=for-the-badge&logo=nestjs&logoColor=E0234E)
+![Express](https://img.shields.io/badge/Express-111111?style=for-the-badge&logo=express&logoColor=white)
+![Node.js](https://img.shields.io/badge/Node.js-111111?style=for-the-badge&logo=node.js&logoColor=339933)
+![Python](https://img.shields.io/badge/Python-111111?style=for-the-badge&logo=python&logoColor=3776AB)
+![FastAPI](https://img.shields.io/badge/FastAPI-111111?style=for-the-badge&logo=fastapi&logoColor=009688)
 
 ### Database & Infrastructure
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
-![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-111111?style=for-the-badge&logo=docker&logoColor=2496ED)
+![Supabase](https://img.shields.io/badge/Supabase-111111?style=for-the-badge&logo=supabase&logoColor=3ECF8E)
+![MongoDB](https://img.shields.io/badge/MongoDB-111111?style=for-the-badge&logo=mongodb&logoColor=47A248)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-111111?style=for-the-badge&logo=postgresql&logoColor=4169E1)
 
 ---
 
-## 📫 Contact
+## Contact
 
-- GitHub: [nsu102](https://github.com/nsu102)
-- BOJ: [ys10](https://www.acmicpc.net/user/ys10)
+- GitHub: [github.com/nsu102](https://github.com/nsu102)
+- BOJ: [acmicpc.net/user/ys10](https://www.acmicpc.net/user/ys10)
