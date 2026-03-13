@@ -35,14 +35,14 @@
 - 프론트엔드와 백엔드를 아우르는 전반적인 개발 업무 수행
 
 ### Lion Rocket  
-**Full Stack Developer**  
+**Full Stack Developer**  intern
 **2025.08 – 2025.09**
 
 **GENVAS Lite**  
 AI 기반 웹툰 제작 플랫폼 풀스택 개발
 
 ### DAQUV  
-**Software Engineer**  
+**Software Engineer**  intern
 **2024.11 – 2025.08**
 
 **AICFO**  
