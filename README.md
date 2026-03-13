@@ -27,22 +27,21 @@
 ## Experience
 
 ### zkrypto  
+intern
 **Software Engineer**  
 **2026.01 – Present**
-
-- 서비스 개발 및 운영
+- 블록체인 기반 서비스 개발 및 운영
 - 제품 개선을 위한 기능 구현 및 유지보수
-- 프론트엔드와 백엔드를 아우르는 전반적인 개발 업무 수행
 
 ### Lion Rocket  
-**Full Stack Developer**  intern
+intern
+**Full Stack Developer**  
 **2025.08 – 2025.09**
-
 **GENVAS Lite**  
 AI 기반 웹툰 제작 플랫폼 풀스택 개발
 
 ### DAQUV  
-**Software Engineer**  intern
+**Software Engineer**  
 **2024.11 – 2025.08**
 
 **AICFO**  
