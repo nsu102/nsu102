@@ -15,8 +15,6 @@
 - SNU code lab undergraduate research intern
 - 한양대학교 정보시스템학과 3학년
 
----
-
 ## Research Interest
 
 - DeepLearning Compiler / MLIR
