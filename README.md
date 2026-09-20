@@ -13,12 +13,12 @@
 ## About Me
 
 - SNU code lab undergraduate research intern
-- 한양대학교 정보시스템학과 3학년
+- HYU departure of information systems 
 
 ## Research Interest
 
-- DeepLearning Compiler / MLIR
-- Processing In Memory
+- DeepLearning Compiler
+- Process In Memory 
 - Edge NPU & SOC
 
 ## Experience
