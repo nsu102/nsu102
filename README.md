@@ -28,7 +28,7 @@
 **2026.06 – Present**
 research interest on DRAM- PIM structure, Deeplearning compiler
 
-### zkrypto  
+### zkrypto (HYU SnP-LAB)
 intern
 **RESEARCH INTERN**  
 **2026.01 – 2026.05**
