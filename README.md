@@ -17,9 +17,8 @@
 
 ## Research Interest
 
-- DeepLearning Compiler
+- Systems for AI
 - Process In Memory 
-- Edge NPU & SOC
 
 ## Experience
 
